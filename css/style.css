@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Poppins:wght@500&display=swap');
 header
 {
     font-family: 'Poppins', sans-serif;
@@ -21,6 +20,15 @@ header
 span
 {
     font-size: 18px;
+    margin-left: 2px;
+
+}
+.education_details
+{
+    font-family: 'Poppins',sans-serif;
+    background-color: palegreen;
+    padding: 2rem;
+    
 }
  .column 
 {
