@@ -4,7 +4,10 @@ header
 {
     font-family: 'Poppins', sans-serif;
 }
-
+.navigation
+{
+    margin-bottom: 50px;
+}
 .headings
 {
     text-align: center;
