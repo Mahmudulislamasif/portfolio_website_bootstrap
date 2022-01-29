@@ -26,8 +26,9 @@ span
 .education_details
 {
     font-family: 'Poppins',sans-serif;
-    background-color: palegreen;
+    background-image: linear-gradient(#0040ff,#4000ff);
     padding: 2rem;
+    color: white;
     
 }
  .column 
